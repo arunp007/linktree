@@ -59,3 +59,10 @@ label{
 a:hover{
     color: red !important;
 }
+
+h2{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+}
